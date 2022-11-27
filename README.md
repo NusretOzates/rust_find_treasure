@@ -6,6 +6,11 @@ Game logic is simple:
 
 ![](game.png)
 
-You have a player and a treasure, the player needs to find the treasure by going north, south, west and east.
+You have 
+ - a player 
+ - a treasure 
+
+The player needs to find the treasure by going north, south, west and east.
+
 Every turn, You will tell the player where it can go, and it's current location. If it finds the treasure or press Q
 the game will end.
